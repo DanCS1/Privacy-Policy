@@ -1,5 +1,5 @@
 # Racer Mania: Privacy policy
-This is Racer Mania, app for Android and iOS
+This is Racer Mania, app developed for Android and iOS
 
 This is a game developed by Damir Alic in unity, the game is available on App store and Google play.
 
