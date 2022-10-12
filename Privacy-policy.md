@@ -1,6 +1,6 @@
-# Racer Mania: Privacy policy
-This is Racer Mania, app developed for Android and iOS
+# Privacy policy
+This is Superuser Games privacy policy, apps developed for Android and iOS
 
-This is a game developed by Damir Alic in unity, the game is available on App store and Google play.
+Games are developed by Damir Alic in unity, the game is available on App store and Google play.
 
 I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (saving...) created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
